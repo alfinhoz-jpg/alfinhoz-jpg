@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c21cff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=430f8a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f255fa&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Arthur+mas+me+chamem+de+Alfinhoz;Tenho+17+anos;Programo+por+diversão+:%29;BEM-VINDO!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7f28b5&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Arthur+mas+me+chamem+de+Alfinhoz;Tenho+17+anos;Programo+por+diversão+:%29;BEM-VINDO!)](https://git.io/typing-svg) 
 
 
 
 ---
 
-<a href="#"><img align="left" src="https://i.imgur.com/KgAXlad.jpeg" width="190"/>
+<a href="#"><img align="left" src="https://i.imgur.com/KgAXlad.jpeg" width="185"/>
 
 ```lua
 Alfinhoz@GitHub
@@ -40,5 +40,5 @@ Age: 17
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c21cff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=430f8a&height=120&section=footer"/>
 
