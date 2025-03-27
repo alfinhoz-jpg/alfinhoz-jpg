@@ -1,0 +1,31 @@
+name: Update Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Atualiza todos os dias à meia-noite
+  push:
+    branches:
+      - main
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt # Se você precisar de alguma dependência para gerar o conteúdo dinâmico
+
+      - name: Generate README content
+        run: python generate_readme.py # Supondo que você tem um script que gera conteúdo dinâmico para o README
+
+      - name: Commit and Push to GitHub
+        uses: stefanzweig/get-current-git-commit@v2
+        with:
+          git_commit_message: 'Atualização automática do README'
