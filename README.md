@@ -1,10 +1,3 @@
-🟣 OS: Windows 11 x64
-🟣 Shell: Windows Terminal
-🟣 Pronouns: Ele/Dele
-🟣 Location: Brasil, SP
-🟣 Learning: JavaScript, HTML, Python
-🟣 Languages: None
-🟣 Hobbies: Cheating in Games, Sleep, Programming
 
 
 
