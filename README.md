@@ -1,13 +1,15 @@
-# Alfinhoz
+```> neofetch ``` -- Alfinhoz
+![OS](https://img.shields.io/badge/OS-Windows%2011%20x64-f255fa?style=flat)
+![Shell](https://img.shields.io/badge/Shell-Windows%20Terminal-f255fa?style=flat)
+![Pronouns](https://img.shields.io/badge/Pronouns-Ele/Dele-f255fa?style=flat)
+![Location](https://img.shields.io/badge/Location-Brasil,%20SP-f255fa?style=flat)
+![Learning](https://img.shields.io/badge/Learning-JavaScript,%20HTML,%20Python-f255fa?style=flat)
+![Languages](https://img.shields.io/badge/Languages-None-f255fa?style=flat)
+![Hobbies](https://img.shields.io/badge/Hobbies-Sleep,%20Programming-f255fa?style=flat)
 
-## About
-- 👨‍💻 Systems development student
-- 🚀 Actually working on a personal project...
-- 🌱 Currently deepening my knowledge in React and Data Science
-- ⚙ Terminal Bash
-- 💻Linux Ubuntu 24.02 LTS
 
-## Project
+
+### AutoAlura
 - [Auto Alura](https://github.com/alfinhoz-jpg/AutoAlura)
 
 ## Habilities
