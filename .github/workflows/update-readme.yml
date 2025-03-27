@@ -20,7 +20,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt # Se você precisar de alguma dependência para gerar o conteúdo dinâmico
+        run: pip install -r requirements.txt 
 
       - name: Generate README content
         run: python generate_readme.py # Supondo que você tem um script que gera conteúdo dinâmico para o README
