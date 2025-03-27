@@ -1,7 +1,7 @@
 # Alfinhoz
 
 ## About
-- 👨‍💻 Student Dev :D
+- 👨‍💻 Systems development student
 - 🚀 Actually working on a personal project...
 - 🌱 Currently deepening my knowledge in React and Data Science
 - ⚙ Terminal Bash
@@ -17,3 +17,6 @@
   
 ## Most used Languages
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinhoz-jpg&layout=compact&theme=radical)
+
+---
+Feito com [![](https://img.shields.io/badge/-Love-C9122C?style=flat)](#)
