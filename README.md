@@ -1,11 +1,10 @@
-```> neofetch ``` </br>
-![OS](https://img.shields.io/badge/OS-Windows%2011%20x64-f255fa?style=flat)</br>
-![Shell](https://img.shields.io/badge/Shell-Windows%20Terminal-f255fa?style=flat)</br>
-![Pronouns](https://img.shields.io/badge/Pronouns-Ele/Dele-f255fa?style=flat)</br>
-![Location](https://img.shields.io/badge/Location-Brasil,%20SP-f255fa?style=flat)</br>
-![Learning](https://img.shields.io/badge/Learning-JavaScript,%20HTML,%20Python-f255fa?style=flat)</br>
-![Languages](https://img.shields.io/badge/Languages-None-f255fa?style=flat)</br>
-![Hobbies](https://img.shields.io/badge/Hobbies-Sleep,%20Programming-f255fa?style=flat)</br>
+🟣 OS: Windows 11 x64
+🟣 Shell: Windows Terminal
+🟣 Pronouns: Ele/Dele
+🟣 Location: Brasil, SP
+🟣 Learning: JavaScript, HTML, Python
+🟣 Languages: None
+🟣 Hobbies: Cheating in Games, Sleep, Programming
 
 
 
