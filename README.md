@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c41bc2&size=37&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Alfinhoz+e+tenho+17+anos;Programo+por+diversão+:%29;BEM-VINDO!)](https://git.io/typing-svg) 
 
+<p align="center">
+    <a href="https://discord.gg/KECBz5yK"><img width="8%" alt="Discord" title="Discord" src="https://i.imgur.com/iXb26SA.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://instagram.com/alfinhoz"><img width="8%" alt="Instagram" title="Instagram" src="https://i.imgur.com/v4qkq1K.png"/></a>
+</p>
+
 ---
 
 <a href="#"><img align="left" src="https://i.imgur.com/KgAXlad.jpeg" width="200" height="400"/>
