@@ -4,7 +4,7 @@
 
 ---
 
-<a href="#"><img align="left" src="https://i.imgur.com/KgAXlad.jpeg" width="250" height="435"/>
+<a href="#"><img align="left" src="https://i.imgur.com/KgAXlad.jpeg" width="200" height="400"/>
 
 ```lua
 Alfinhoz@GitHub
