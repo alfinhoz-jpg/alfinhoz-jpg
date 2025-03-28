@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c022e0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c41bc2&size=37&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Arthur,+mas+me+chamem+de+Alfinhoz;Tenho+17+anos;Programo+por+diversão+:%29;BEM-VINDO!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c41bc2&size=37&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Alfinhoz+e+tenho+17+anos;Programo+por+diversão+:%29;BEM-VINDO!)](https://git.io/typing-svg) 
 
 ---
 
