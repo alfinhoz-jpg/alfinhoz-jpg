@@ -10,7 +10,7 @@
 
 ---
 
-<a href="#"><img align="left" src="https://br.pinterest.com/pin/251779435414093121" width="200" height="400"/>
+<a href="#"><img align="left" src="https://i.pinimg.com/736x/2a/39/fd/2a39fda2bcce7e90ef78cf705670d76f.jpg" width="200" height="400"/>
 
 ```lua
 Alfinhoz@GitHub
