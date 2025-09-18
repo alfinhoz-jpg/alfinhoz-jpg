@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c022e0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c41bc2&size=37&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Alfinhoz+e+tenho+17+anos;Programo+por+diversão+:%29;BEM-VINDO!)](https://git.io/typing-svg) 
 
@@ -36,5 +36,5 @@ Age: 17
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
 ---
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c022e0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=footer"/>
 
