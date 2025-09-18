@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c41bc2&size=37&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Alfinhoz+e+tenho+17+anos;Programo+por+diversão+:%29;BEM-VINDO!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC0000&size=37&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Alfinhoz+e+tenho+17+anos;Programo+por+diversão+:%29;BEM-VINDO!)](https://git.io/typing-svg) 
 
 <p align="center">
     <a href="https://discord.gg/KECBz5yK"><img width="4%" alt="Discord" title="Discord" src="https://i.imgur.com/iXb26SA.png"/></a>
